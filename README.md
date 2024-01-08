@@ -1,16 +1,12 @@
-# C++ Advanced Topics
+# Optimize Performance and Efficiency in C
 
 ## Content
 
-1. [Operator Overloads]()
-2. [Move Semantics]()
-3. [Lambda Expressions]()
-4. [Constraints & Concepts]()
-5. [Optionals & Variants]()
-6. [Concurrency]()
-7. [Other Subjects]()
-8. [Concurrency]()
-9. [C++ 20 Features]()
-    
+1. [Weird-Symbol Roundup]()
+2. [Main Function Arguments]()
+3. [Beyond Basic Variables]()
+4. [Arrays & Structures]()
+5. [Pointer]()
+
 
 
